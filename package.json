@@ -1,0 +1,22 @@
+{
+  "name": "testnewopcodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "path": "^0.12.7",
+    "solc": "^0.6.4",
+    "vns-web3": "^0.20.6"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "wait-until": "0.0.2"
+  }
+}

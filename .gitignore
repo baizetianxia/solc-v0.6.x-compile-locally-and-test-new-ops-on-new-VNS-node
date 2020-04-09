@@ -1,0 +1,13 @@
+.DS_STORE
+.vscode
+.idea
+
+# node
+node_modules
+npm-debug.log
+
+# python
+*.pyc
+
+# build
+build
